@@ -126,7 +126,7 @@ O cabo coaxial é composto por um núcleo interno de cobre rodeado por um materi
 
 **Desvantagens**: o cabo coaxial é mais caro do que o cabo de cobre e não oferece a mesma largura de banda da fibra óptica.
 
-*Em termos de velocidades, a fibra óptica é a opção mais rápida, capaz de fornecer velocidades de até 100 Gbps. O cabo de cobre pode suportar velocidades de até 10 Gbps e o cabo coaxial pode suportar velocidades de até 1 Gbps. No entanto, a velocidade real que uma rede pode atingir depende de uma variedade de fatores, como o hardware usado, a configuração da rede e outros fatores externos.*
+*Em termos de velocidades, a fibra óptica é a opção mais rápida, capaz de fornecer velocidades de até 100 Gbps. O cabo de cobre pode suportar velocidades de até 10 Gbps e o cabo coaxial pode suportar velocidades de até 1 Gbps (Gigabits per second). No entanto, a velocidade real que uma rede pode atingir depende de uma variedade de fatores, como o hardware usado, a configuração da rede e outros fatores externos.*
 
                 
 [hd]: https://s2.glbimg.com/yc7cM2ZvlEk1D5m2QjOv7uIjaOg=/0x0:620x343/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/Y/A/bjhId5TBW0fBaubJDjzA/2013-10-22-ssdvhd.jpg
