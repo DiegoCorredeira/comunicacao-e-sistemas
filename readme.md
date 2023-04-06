@@ -23,18 +23,26 @@ Os componentes de hardware trabalham em conjunto para permitir a execução de t
 Além dos componentes físicos do computador, também existem dispositivos de hardware externos, como impressoras, scanners e dispositivos de armazenamento externo. Esses dispositivos podem ser conectados ao computador por meio de portas USB ou outras interfaces de comunicação.
 Cada componente de um computador desempenha uma função específica que contribui para o seu funcionamento geral. Abaixo temos a descrição de cada peça e sua importancia. <br>
 **Placa-mãe**: é o componente principal do computador, responsável por conectar todos os outros componentes. Ela possui conectores para processador, memória RAM, placa de vídeo, discos rígidos e outros dispositivos.
-![Placa Mãe](https://s2.glbimg.com/pP1S_uaiWRwG8OU0UKQdVbDTZuw=/0x0:620x499/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/h/Y/NMCKTvRhmUc5B4ZTxKOg/2012-04-13-o-que-e-placa-mae.jpg)
+![Placa Mãe][mobo]
 **Processador**: é o "cérebro" do computador, responsável por executar as instruções dos programas. Quanto mais rápido e poderoso o processador, mais rapidamente o computador pode executar tarefas.
-![Processador](https://s2.glbimg.com/HkK-EOIeBys8J5v8hiq0onWhcpA=/0x0:695x463/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/V/o/VRLU2iTgAJXPsvZhh3bQ/2015-10-07-processador-da-intel-alcancou-altissima-velocidade.png)
+![Processador][cpu]
 **Memória RAM**: é um tipo de memória de acesso aleatório que armazena temporariamente os dados e instruções que o processador precisa para executar tarefas. Uma quantidade maior de memória RAM permite que o computador execute mais tarefas simultaneamente.
-    ![Memoria Ram](https://images.tcdn.com.br/img/img_prod/664937/memoria_ram_kingston_1gb_5300mhz_para_destop_12137_1_33bb7685304747f9de5266defb9c59f6.jpg)
+    ![Memoria Ram][ram]
 **Disco rígido (ou SSD)**: é o dispositivo de armazenamento principal do computador, onde são armazenados o sistema operacional, programas e arquivos. O disco rígido tem uma capacidade de armazenamento muito maior que a memória RAM, mas é mais lento.
-![HDD/SSD](https://s2.glbimg.com/yc7cM2ZvlEk1D5m2QjOv7uIjaOg=/0x0:620x343/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/Y/A/bjhId5TBW0fBaubJDjzA/2013-10-22-ssdvhd.jpg)
+![HDD/SSD][hd]
 **Placa de vídeo**: é responsável por gerar e enviar as imagens para o monitor. Uma placa de vídeo mais potente pode permitir que o computador execute jogos e aplicativos gráficos mais exigentes.
-![GPU](https://img.terabyteshop.com.br/produto/g/placa-de-video-galax-nvidia-geforce-rtx-3060-1-click-oc-8gb-gddr6-dlss-ray-tracing-36nsl8md6occ_159963.jpg)
+![GPU][gpu]
 **Fonte de alimentação**: é responsável por fornecer energia para todos os componentes do computador. Uma fonte de alimentação de baixa qualidade ou com potência insuficiente pode causar problemas de desempenho ou até mesmo danificar os componentes.
-![Fonte de Alimentação](https://s2.glbimg.com/oBgAN_cFo8oi6p-4IAxdRA_c-jk=/0x0:695x469/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/h/q/NLxnvaTISB7A7cerDRaw/2016-07-01-corsair-fonte.png)
+![Fonte de Alimentação][fonte]
 **Gabinete**: é a estrutura que abriga todos os componentes do computador. Além de fornecer proteção, o gabinete pode afetar a temperatura do computador e, portanto, seu desempenho.
-![Gabinete](https://lojagoldentec.vteximg.com.br/arquivos/ids/155629-600-600/image-4657ba48522b4b6cae1c0c1eda4acc04.jpg?v=637607617896530000)
+![Gabinete][gab]
 
 <hr>
+
+[hd]: https://s2.glbimg.com/yc7cM2ZvlEk1D5m2QjOv7uIjaOg=/0x0:620x343/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/Y/A/bjhId5TBW0fBaubJDjzA/2013-10-22-ssdvhd.jpg
+[gpu]: https://img.terabyteshop.com.br/produto/g/placa-de-video-galax-nvidia-geforce-rtx-3060-1-click-oc-8gb-gddr6-dlss-ray-tracing-36nsl8md6occ_159963.jpg
+[fonte]: https://s2.glbimg.com/oBgAN_cFo8oi6p-4IAxdRA_c-jk=/0x0:695x469/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/h/q/NLxnvaTISB7A7cerDRaw/2016-07-01-corsair-fonte.png
+[mobo]: https://s2.glbimg.com/pP1S_uaiWRwG8OU0UKQdVbDTZuw=/0x0:620x499/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/h/Y/NMCKTvRhmUc5B4ZTxKOg/2012-04-13-o-que-e-placa-mae.jpg
+[cpu]: https://s2.glbimg.com/HkK-EOIeBys8J5v8hiq0onWhcpA=/0x0:695x463/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/V/o/VRLU2iTgAJXPsvZhh3bQ/2015-10-07-processador-da-intel-alcancou-altissima-velocidade.png
+[ram]: https://images.tcdn.com.br/img/img_prod/664937/memoria_ram_kingston_1gb_5300mhz_para_destop_12137_1_33bb7685304747f9de5266defb9c59f6.jpg
+[gab]: https://lojagoldentec.vteximg.com.br/arquivos/ids/155629-600-600/image-4657ba48522b4b6cae1c0c1eda4acc04.jpg?v=637607617896530000
