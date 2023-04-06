@@ -101,7 +101,7 @@ A seguir, você encontrará uma lista com os tipos de ativos e suas respectivas 
 ### Existem basicamente três tipos de cabeamento de rede amplamente utilizados:
 
 **Cabo de cobre**:
-O cabo de cobre é um dos tipos mais comuns de cabeamento de rede e é usado para transmitir dados em redes locais (LANs). Existem dois tipos principais de cabos de cobre: o cabo UTP (Unshielded Twisted Pair) e o STP (Shielded Twisted Pair). O cabo UTP é mais comum e é usado em redes de escritórios, enquanto o STP é usado em ambientes industriais onde há mais interferência eletromagnética.
+É um dos tipos mais comuns de cabeamento de rede e é usado para transmitir dados em redes locais (LANs). Existem dois tipos principais de cabos de cobre: o cabo UTP (Unshielded Twisted Pair) e o STP (Shielded Twisted Pair). O cabo UTP é mais comum e é usado em redes de escritórios, enquanto o STP é usado em ambientes industriais onde há mais interferência eletromagnética.
 
 **Vantagens**: o cabo de cobre é fácil de instalar, relativamente barato, suporta altas taxas de transferência de dados e é amplamente compatível com dispositivos de rede.
 
