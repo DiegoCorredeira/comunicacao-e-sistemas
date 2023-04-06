@@ -95,6 +95,38 @@ A seguir, você encontrará uma lista com os tipos de ativos e suas respectivas 
 
     Hubs: dispositivos que possibilitam a conexão de vários dispositivos em uma rede local (LAN). Funcionam como um tipo de "centro de distribuição" para os dados na rede, encaminhando as informações para todos os dispositivos conectados a eles. No entanto, não possuem a capacidade de gerenciar o tráfego de rede como um switch, o que pode causar congestionamentos na rede.
 
+
+
+
+### Existem basicamente três tipos de cabeamento de rede amplamente utilizados:
+
+**Cabo de cobre**:
+O cabo de cobre é um dos tipos mais comuns de cabeamento de rede e é usado para transmitir dados em redes locais (LANs). Existem dois tipos principais de cabos de cobre: o cabo UTP (Unshielded Twisted Pair) e o STP (Shielded Twisted Pair). O cabo UTP é mais comum e é usado em redes de escritórios, enquanto o STP é usado em ambientes industriais onde há mais interferência eletromagnética.
+
+**Vantagens**: o cabo de cobre é fácil de instalar, relativamente barato, suporta altas taxas de transferência de dados e é amplamente compatível com dispositivos de rede.
+
+**Desvantagens**: o cabo de cobre pode sofrer interferência elétrica ou eletromagnética, o que pode prejudicar a qualidade do sinal. Além disso, sua velocidade máxima de transferência de dados é de 10 Gbps.
+<hr>
+
+**Fibra óptica**:
+
+O cabo de fibra óptica é usado para transmitir dados através de pulsos de luz. É uma opção mais cara, mas oferece velocidades de transmissão muito mais rápidas e é mais resistente à interferência.
+
+**Vantagens**: o cabo de fibra óptica é mais rápido e suporta maiores distâncias de transmissão do que o cabo de cobre. Ele também é menos suscetível a interferências eletromagnéticas, tornando-o ideal para ambientes de rede com ruído elétrico.
+
+**Desvantagens**: é mais caro do que o cabo de cobre, requer mais habilidade para instalar e configurar e não é tão amplamente compatível com dispositivos de rede.
+<hr>
+
+**Cabo coaxial**:
+
+O cabo coaxial é composto por um núcleo interno de cobre rodeado por um material isolante e uma malha de cobre. É usado para redes de TV a cabo, internet a cabo e outras redes de banda larga.
+
+**Vantagens**: o cabo coaxial é mais robusto e durável do que o cabo de cobre, e pode suportar maiores distâncias de transmissão. Além disso, a interferência é menor do que no cabo de cobre.
+
+**Desvantagens**: o cabo coaxial é mais caro do que o cabo de cobre e não oferece a mesma largura de banda da fibra óptica.
+
+Em termos de velocidades, a fibra óptica é a opção mais rápida, capaz de fornecer velocidades de até 100 Gbps. O cabo de cobre pode suportar velocidades de até 10 Gbps e o cabo coaxial pode suportar velocidades de até 1 Gbps. No entanto, a velocidade real que uma rede pode atingir depende de uma variedade de fatores, como o hardware usado, a configuração da rede e outros fatores externos.
+
                 
 [hd]: https://s2.glbimg.com/yc7cM2ZvlEk1D5m2QjOv7uIjaOg=/0x0:620x343/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/Y/A/bjhId5TBW0fBaubJDjzA/2013-10-22-ssdvhd.jpg
 [gpu]: https://img.terabyteshop.com.br/produto/g/placa-de-video-galax-nvidia-geforce-rtx-3060-1-click-oc-8gb-gddr6-dlss-ray-tracing-36nsl8md6occ_159963.jpg
